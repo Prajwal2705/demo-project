@@ -1,3 +1,3 @@
 # demo-project
-This is my first git repository.
+This is my first git repository.<br>
 Author - Prajwal Dhawale
